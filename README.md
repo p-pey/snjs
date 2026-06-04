@@ -2,6 +2,8 @@
 
 A todo application built with **Next.js**, **Supabase**, and **React Query**. Manage tasks with categories, tags, priorities, activity tracking, and Excel export.
 
+## Demo https://snjs-todo.vercel.app
+
 ## Quick start
 
 ```bash
